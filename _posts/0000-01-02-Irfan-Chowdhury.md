@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Practice Makes A Man Perfect"
 Use the left arrow to go back!
